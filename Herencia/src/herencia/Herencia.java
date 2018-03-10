@@ -6,7 +6,7 @@
 package herencia;
 
 /**
- *
+ * Mi primer commit
  * @author Rene Gomez
  */
 public class Herencia {
