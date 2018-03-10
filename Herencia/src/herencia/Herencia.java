@@ -15,7 +15,13 @@ public class Herencia {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //Sumar Valores
+        int valor1=5;
+        int valor2=10;
+        
+        int suma = valor1+valor2;
+        
+        System.out.println("herencia.Herencia.main()"+suma);
     }
     
 }
