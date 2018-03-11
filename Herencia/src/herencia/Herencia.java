@@ -20,8 +20,6 @@ public class Herencia {
         int valor2=10;
         
         int suma = valor1+valor2;
-        
-        System.out.println("herencia.Herencia.main()"+suma);
     }
     
 }
